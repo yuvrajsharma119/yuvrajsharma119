@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yuvrajsharma119
+- 👋 Hi, I’m Yuvraj Sharma
 - 👀 I’m interested in programing
 - 🌱 I’m currently learning progrmaing language 
 - 💞️ I’m looking to collaborate on 
